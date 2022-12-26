@@ -4,3 +4,7 @@ IcyDuck to gra napisana pod wpływem impulsu doznanego na Islandii przez autora,
 https://youtu.be/PlPx4WI1dgE?t=650
 
 Praca nad grą zajęła raptem kilka godzin, więc nie należy spodziewać się gry klasy AAA ani czystego kodu, ale można podejrzeć, jak przy pomocy _pygame_ można szybko złożyć prostą grę 2D.
+
+Uruchomienie gry:
+_python game.py_
+(trzeba mieć zainstalowanego Pythona i pakiet pygame)
